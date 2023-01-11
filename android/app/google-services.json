@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624484673774",
+    "firebase_url": "https://mother-fetal-ecg-default-rtdb.firebaseio.com",
+    "project_id": "mother-fetal-ecg",
+    "storage_bucket": "mother-fetal-ecg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624484673774:android:d01285d1317e679c2c2bff",
+        "android_client_info": {
+          "package_name": "com.project.mother_fetal_ecg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624484673774-kv66305bsraijdlkqefnmg9v1g02k40k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbMEmdGeiYkFwsBNwS5GPB0CRpJrYIMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624484673774-kv66305bsraijdlkqefnmg9v1g02k40k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
